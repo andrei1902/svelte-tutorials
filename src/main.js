@@ -4,7 +4,7 @@ const app = new App({
 	target: document.body,
 	props: {
 		name: 'world',
-		age: 26
+		age: 38
 	}
 });
 
